@@ -1,2 +1,3 @@
 # PaceVsDPT
-Linear Regression Project. Pace versus defensive possession time by team.
+Linear Regression Project. Taking stats from dunksandthrees.com and finding interesting correlations.
+
